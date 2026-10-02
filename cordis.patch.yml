@@ -1,0 +1,8 @@
+# ============================================================================
+# dsh-qicaoji-widget —— DSH bundle patch（七草荠皮肤版）
+# 基于 dsh-whale-widget，路由前缀仍为 /dsh-whale/*（前端硬编码，不改）。
+# 安装：dsh plugin --profile web add link:<本目录绝对路径>
+# ============================================================================
+- insert:
+    - id: dsh-qicaoji-widget
+      name: dsh-qicaoji-widget
